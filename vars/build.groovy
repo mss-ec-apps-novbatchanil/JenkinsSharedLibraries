@@ -17,4 +17,3 @@ def call(String mavenGoal){
         sh "mvn clean package"
      }
 }
-//this is the comment made to check...
